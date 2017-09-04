@@ -7,6 +7,8 @@ highlight: true
 image: https://img06.deviantart.net/ae87/i/2017/187/a/7/kakegurui_by_aoiogataartist-dbfdd12.jpg
 author: Tamdz
 ---
+KAKAK :D
+OH SHIT
 {% highlight ruby %}
 $tamdz = true;
 if(isset($tamdz)){
